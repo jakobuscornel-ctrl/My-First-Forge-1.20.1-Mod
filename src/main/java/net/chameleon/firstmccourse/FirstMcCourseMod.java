@@ -1,6 +1,7 @@
 package net.chameleon.firstmccourse;
 
 import com.mojang.logging.LogUtils;
+import net.chameleon.firstmccourse.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -24,13 +25,12 @@ public class FirstMcCourseMod {
     public FirstMcCourseMod(FMLJavaModLoadingContext context) {
         IEventBus modEventBus = context.getModEventBus();
 
+        ModItems.register(modEventBus);
+
 
         modEventBus.addListener(this::commonSetup);
 
-
         MinecraftForge.EVENT_BUS.register(this);
-
-
         modEventBus.addListener(this::addCreative);
 
     }
