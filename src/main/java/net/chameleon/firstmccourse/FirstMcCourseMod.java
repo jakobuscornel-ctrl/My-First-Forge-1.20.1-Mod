@@ -48,6 +48,10 @@ public class FirstMcCourseMod {
             event.accept(ModItems.ALEXANDRITE);
             event.accept(ModItems.RAW_ALEXANDRITE);
         }
+
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.ALEXANDRITE_BLOCK);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
