@@ -1,6 +1,7 @@
 package net.chameleon.firstmccourse;
 
 import com.mojang.logging.LogUtils;
+import net.chameleon.firstmccourse.block.ModBlocks;
 import net.chameleon.firstmccourse.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -27,6 +28,7 @@ public class FirstMcCourseMod {
         IEventBus modEventBus = context.getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
 
         modEventBus.addListener(this::commonSetup);
