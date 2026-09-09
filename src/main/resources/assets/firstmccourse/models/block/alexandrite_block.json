@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "firstMcCourse:block/alexandrite_block"
+    "all": "firstMcCourseMod:block/alexandrite_block"
   }
 }
