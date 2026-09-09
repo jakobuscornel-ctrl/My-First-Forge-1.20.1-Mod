@@ -1,7 +1,6 @@
 {
   "varaiants": {
-    "": {
-      "model": "firstmccourse:block/alexandrite_block"
+    "": { "model": "firstmccourse:block/alexandrite_block"
     }
   }
 }
