@@ -2,5 +2,7 @@
   "item.firstmccourse.alexandrite": "Alexandrite",
   "item.firstmccourse.raw_alexandrite": "Raw Alexandrite",
 
-  "block.firstmccourse.alexandrite_block": "Block of Alexandrite"
+  "block.firstmccourse.alexandrite_block": "Block of Alexandrite",
+  "block.firstmccourse.raw_alexandrite_block": "Block of Raw Alexandrite"
+
 }
