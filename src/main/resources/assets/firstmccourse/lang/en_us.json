@@ -2,9 +2,11 @@
   "item.firstmccourse.alexandrite": "Alexandrite",
   "item.firstmccourse.raw_alexandrite": "Raw Alexandrite",
   "item.firstmccourse.alexandrite_ore": "Alexandrite_Ore",
+  "item.firstmccourse.deepslate_dalexandrite_ore": "Deepslate Alexandrite_Ore",
 
   "block.firstmccourse.alexandrite_block": "Block of Alexandrite",
   "block.firstmccourse.raw_alexandrite_block": "Block of Raw Alexandrite",
-  "block.firstmccourse.alexandrite_ore": "Alexandrite_Ore"
+  "block.firstmccourse.alexandrite_ore": "Alexandrite_Ore",
+  "block.firstmccourse.deepslate_alexandrite_ore": "Deepslate Alexandrite_Ore"
 
 }
