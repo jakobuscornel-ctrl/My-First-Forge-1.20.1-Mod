@@ -4,11 +4,13 @@
   "item.firstmccourse.alexandrite_ore": "Alexandrite Ore",
   "item.firstmccourse.deepslate_dalexandrite_ore": "Deepslate Alexandrite Ore",
   "item.firstmccourse.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
+  "item.firstmccourse.nether_alexandrite_ore": "Nether Alexandrite Ore",
 
   "block.firstmccourse.alexandrite_block": "Block of Alexandrite",
   "block.firstmccourse.raw_alexandrite_block": "Block of Raw Alexandrite",
   "block.firstmccourse.alexandrite_ore": "Alexandrite Ore",
   "block.firstmccourse.deepslate_alexandrite_ore": "Deepslate Alexandrite_Ore",
-  "block.firstmccourse.end_stone_alexandrite_ore": "End Stone Alexandrite Ore"
+  "block.firstmccourse.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
+  "block.firstmccourse.nether_alexandrite_ore": "Nether Alexandrite Ore"
 
 }
