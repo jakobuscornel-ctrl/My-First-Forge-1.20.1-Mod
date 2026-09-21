@@ -11,6 +11,8 @@
   "block.firstmccourse.alexandrite_ore": "Alexandrite Ore",
   "block.firstmccourse.deepslate_alexandrite_ore": "Deepslate Alexandrite_Ore",
   "block.firstmccourse.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
-  "block.firstmccourse.nether_alexandrite_ore": "Nether Alexandrite Ore"
+  "block.firstmccourse.nether_alexandrite_ore": "Nether Alexandrite Ore",
+
+  "creativetab.course_tab": "Course Tab"
 
 }
