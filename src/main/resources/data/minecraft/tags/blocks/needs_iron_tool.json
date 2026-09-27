@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "firstmccourse:alexandrite_block",
+    "firstmccourse:raw_alexandrite_block",
+    "firstmccourse:alexandrite_ore",
+    "firstmccourse:deepslate_alexandrite_ore",
+    "firstmccourse:end_stone_alexandrite_ore",
+    "firstmccourse:nether_alexandrite_ore"
+
+  ]
+}
