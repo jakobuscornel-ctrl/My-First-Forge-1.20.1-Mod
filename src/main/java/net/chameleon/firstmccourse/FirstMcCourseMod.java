@@ -23,7 +23,7 @@ public class FirstMcCourseMod {
 
     public static final String MOD_ID = "firstmccourse";
     // Directly reference a slf4j logger
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
     public FirstMcCourseMod(FMLJavaModLoadingContext context) {
         IEventBus modEventBus = context.getModEventBus();
